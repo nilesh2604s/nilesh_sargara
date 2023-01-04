@@ -41,3 +41,4 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :writing_hand: Projects :
+<a target="_blank" href="!" alt="Recent Article 0">
