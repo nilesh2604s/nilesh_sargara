@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nilesh-sargara-889062248/">
+  <a href="https://www.linkedin.com/in/nileshsargara/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h1>
@@ -11,17 +11,17 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e476da39k2ygo754c92bweql7jh8a3r65qw95orjfgl&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 ---
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-sargara-889062248/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nileshsargara/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -41,4 +41,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :writing_hand: Projects :
+Here are some of the notable projects that I have worked on:
+
+- AI Image Generation App - A web application that OpenAI API to generate images based on user inputs.
+- ChatGPT Clone App - A chatbot application that uses GPT (Generative Pre-trained Transformer) for text generation.
+- YouTube Clone App - A video-sharing platform that allows users to view Youtube videos adfree. It was built using ReactJs and NodeJs.
+- Metaverse Website - A virtual world where users can create avatars, socialize, and explore.
 <a target="_blank" href="!" alt="Recent Article 0">
